@@ -1,0 +1,18 @@
+int main()
+{
+    float 7x = 75 - 2;
+    float x;
+    cout << "hi" << endl;
+    double y;
+    string str = "o";
+    char ch = 'c';
+    if (x > y)
+    {
+        cout << true;
+    }
+    while (true)
+    {
+        ++i;
+        j--;
+    }
+}
